@@ -1,0 +1,10 @@
+com/qa/demo/service/InputValidatorServiceTest.java
+ com.qa.demo.service.InputValidatorServiceTest
+com/qa/demo/service/OptionValidatorServiceImplTest.java
+ com.qa.demo.service.OptionValidatorServiceImplTest
+com/qa/demo/service/QuestionEntityServiceImplTest.java
+ com.qa.demo.service.QuestionEntityServiceImplTest
+com/qa/demo/service/QAValidatorServiceImplTest.java
+ com.qa.demo.service.QAValidatorServiceImplTest
+com/qa/demo/QaDemoApplicationTests.java
+ com.qa.demo.QaDemoApplicationTests
